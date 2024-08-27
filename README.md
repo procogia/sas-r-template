@@ -11,21 +11,26 @@
 
 [Brief Description of the project]
 
+<hr>
+
 
 #### Packages used in the project
 
 [List all R packages used]
 
-
+<hr>
 
 #### Functions written for the project
 
 [List all programs referenced in the /R folder]
 
+<hr>
+
 #### Program source
 
 [List all SAS programs]
 
+<hr>
 
 #### Data sources
 
@@ -33,6 +38,7 @@
 
 Any original .sas7bdat data sources should be converted to .RDS files.  Any other data format (.csv, .xlsx, ,xpt, etc) can remain in their original format.
 
+<hr>
 
 
 #### Data outputs
@@ -41,8 +47,9 @@ Any original .sas7bdat data sources should be converted to .RDS files.  Any othe
 
 If original output files were saved as .sas7bdat, they can be converted to .RDS.  Otherwise keep the same format as the original SAS files.
 
+<hr>
 
-## Notes
+#### Notes
 
 [Notes on the migration]
 
