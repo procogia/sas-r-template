@@ -1,31 +1,33 @@
 
 ## Project name:  Template
-### Author: [Author Name]
+### Developer: [Author Name]
 ### Project Owner: [Name]
+### Code Reviewer: [Name]
 ### Date Completed: [Date]
 
+<hr>
 
-## Project Description
+#### Project Description
 
 [Brief Description of the project]
 
 
-## Packages used in the project
+#### Packages used in the project
 
 [List all R packages used]
 
 
 
-## Functions written for the project
+#### Functions written for the project
 
 [List all programs referenced in the /R folder]
 
-## Program source
+#### Program source
 
 [List all SAS programs]
 
 
-## Data sources
+#### Data sources
 
 [List all data inputs]
 
@@ -33,7 +35,7 @@ Any original .sas7bdat data sources should be converted to .RDS files.  Any othe
 
 
 
-## Data outputs
+#### Data outputs
 
 [List all data outputs]
 
