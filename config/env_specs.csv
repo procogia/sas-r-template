@@ -1,0 +1,4 @@
+﻿environment,name,value
+local,input_path,{main_path}/data-raw
+local,output_path,{main_path}/outputs
+local,large_test_files_path,/external/path

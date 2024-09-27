@@ -1,3 +1,3 @@
-library(dplyr)
 
-print("Hello world!")
+
+# Set main_path to working directory
